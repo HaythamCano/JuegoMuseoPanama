@@ -15,6 +15,7 @@ Los museos tradicionales a menudo enfrentan el desafío de mantener a los visita
 4. Para la conectividad del Leaderboard, se requieren las credenciales de la API de Supabase.
 
 ### Capturas de pantalla
+ondelafama.netlify.app
 <img width="900" height="1600" alt="WhatsApp Image 2026-10-05 at 1 51 03 PM (4)" src="https://github.com/user-attachments/assets/148d1f06-121a-4f33-bdfb-ce581cb74dff" />
 <img width="900" height="1600" alt="WhatsApp Image 2026-10-05 at 1 51 03 PM (2)" src="https://github.com/user-attachments/assets/129ff175-7733-4fd4-b1a4-14a8cc94c63f" />
 <img width="1875" height="986" alt="Captura de pantalla 2026-10-05 170614" src="https://github.com/user-attachments/assets/6d05f0f0-ef42-4fb8-afb1-3691fd968fab" />
